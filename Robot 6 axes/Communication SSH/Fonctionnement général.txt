@@ -1,0 +1,7 @@
+Le fonctionnement du système fonctionne comme ceci :
+
+-Deux raspberry sont en communication ssh (un dans le robot et un autre avec un ecran tactile pour interfacer avec)
+-Le maitre est celui avec l'ecran
+-Des codes en python sont sur le robot pour effectuer des changements de position, ces derniers sont lancés à distance par le maitre
+-l'envoi en lui meme d'une position consiste à créer un fichier texte avec les coordonnées puis l'envoyer avec la commande scp
+-Pour transferer les codes python sur le robot depuis notre ordinateur, un script effectue cela automatiquement

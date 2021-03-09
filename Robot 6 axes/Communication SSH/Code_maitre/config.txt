@@ -1,0 +1,1 @@
+config requise : ubuntu 16.04 avec ROS kinetic

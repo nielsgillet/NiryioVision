@@ -1,0 +1,15 @@
+opencv-python
+pandas
+matplotlib
+Pillow
+scikit-learn
+numpy
+scipy
+tensorflow
+tensorflow-gpu
+keras
+ipython
+jupyter
+six
+protobuf
+wheel
